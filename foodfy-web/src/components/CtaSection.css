@@ -1,0 +1,7 @@
+/* Clean CTA Section */
+
+.cta-section {
+    position: relative;
+    overflow: hidden;
+    padding: 5rem 0;
+}
